@@ -1,5 +1,7 @@
 # @auth0/auth0-spa-js
 
+> This version is "lite" because it strips out all of the polyfills. This reduces the file size significantly, but use at your own risk.
+
 Auth0 SDK for Single Page Applications using [Authorization Code Grant Flow with PKCE](https://auth0.com/docs/api-auth/tutorials/authorization-code-grant-pkce).
 
 [![CircleCI](https://circleci.com/gh/auth0/auth0-spa-js.svg?style=svg)](https://circleci.com/gh/auth0/auth0-spa-js)
